@@ -1,0 +1,6 @@
+c:\users\eric_estes\documents\visual studio 2013\Projects\sp\sp\bin\Debug\sp.exe.config
+c:\users\eric_estes\documents\visual studio 2013\Projects\sp\sp\obj\Debug\sp.csprojResolveAssemblyReference.cache
+c:\users\eric_estes\documents\visual studio 2013\Projects\sp\sp\bin\Debug\sp.exe
+c:\users\eric_estes\documents\visual studio 2013\Projects\sp\sp\bin\Debug\sp.pdb
+c:\users\eric_estes\documents\visual studio 2013\Projects\sp\sp\obj\Debug\sp.exe
+c:\users\eric_estes\documents\visual studio 2013\Projects\sp\sp\obj\Debug\sp.pdb
